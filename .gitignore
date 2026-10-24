@@ -1,0 +1,14 @@
+node_modules/
+.next/
+data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+.env.local
+npm-debug.log*
+*.log
+.DS_Store
+
+.freebuff/
+tsconfig.tsbuildinfo
